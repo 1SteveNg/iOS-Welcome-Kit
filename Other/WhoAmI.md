@@ -8,12 +8,12 @@ I have started work as iOS Developer Role since 2016 with some iOS oursourcing p
 * [Abceed](https://apps.apple.com/jp/app/ai英語教材-abceed-エービーシード/id1060016132).
 
 In next 4 years. I have worked at some fintech company in Vietnam with several roles.
-* [TrueMoney VietNam]https://apps.apple.com/us/app/truemoney/id1345776130 iOS Developer.
-* [VietcomBank SME]https://apps.apple.com/ch/app/vcb-digibiz/id1592900514 iOS Team Leader.
-* [Vietinbank IPAY]https://apps.apple.com/vn/app/vietinbank-ipay/id689963454 iOS Team Leader.
+* [TrueMoneyVietNam](https://apps.apple.com/us/app/truemoney/id1345776130) iOS Developer.
+* [VietcomBank SME](https://apps.apple.com/ch/app/vcb-digibiz/id1592900514) iOS Team Leader.
+* [Vietinbank IPAY](https://apps.apple.com/vn/app/vietinbank-ipay/id689963454) iOS Team Leader.
 
 Now I'm attending in another Fintech project from ThaiLand with role iOS team leader and Scrum Master.
 
-* [Uchoose KrungSri]https://apps.apple.com/vn/app/uchoose/id1136616669?l=vi
+* [Uchoose KrungSri](https://apps.apple.com/vn/app/uchoose/id1136616669?l=vi)
 
 
