@@ -7,4 +7,4 @@ Let's learn what are the important and interesting iOS knowledges which we need 
 
 ## Who Am I?
 
-* [About me](https://github.com/jrasmusson/ios-starter-kit/blob/master/basics/Array/README.md)
+* [About me](https://github.com/1SteveNg/iOS-Welcome-Kit/blob/main/Other/WhoAmI.md)
